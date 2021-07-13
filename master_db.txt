@@ -1,0 +1,1 @@
+server=127.0.0.1;user=iprotekdb;database=iprotek_master;port=3306;password=aaa222!!!;charset=utf8;
